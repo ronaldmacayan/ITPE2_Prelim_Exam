@@ -1,5 +1,5 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+### Name: Macayan, Ronald E.
+---
+### Course & Block: BSIT 3-1
+---
+### AGE: 18
